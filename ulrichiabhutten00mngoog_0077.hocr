@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichiabhutten00mngoog_0077.png"; bbox 0 0 2618 5108; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 625 1685 668 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 625 1685 668 1765">
+     <span class='ocr_line' id='line_1_1' title="bbox 625 1685 668 1765; baseline 0.209 -9"><span class='ocrx_word' id='word_1_1' title='bbox 625 1685 668 1765; x_wconf 87' lang='lat' dir='ltr'>A.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 466 1997 826 2092">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 466 1997 826 2092">
+     <span class='ocr_line' id='line_1_2' title="bbox 466 1997 826 2092; baseline 0.008 -3"><span class='ocrx_word' id='word_1_2' title='bbox 466 1997 826 2092; x_wconf 77' lang='lat' dir='ltr'>&#39;Bulla</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 606 2323 680 2385">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 606 2323 680 2385">
+     <span class='ocr_line' id='line_1_3' title="bbox 606 2323 680 2385; baseline 0.014 -2"><span class='ocrx_word' id='word_1_3' title='bbox 606 2323 680 2385; x_wconf 80' lang='lat' dir='ltr'>vel</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 220 2610 1074 2706">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 220 2610 1074 2706">
+     <span class='ocr_line' id='line_1_4' title="bbox 220 2610 1074 2706; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 220 2610 1074 2706; x_wconf 84' lang='lat' dir='ltr'>Bullicida</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 365 2939 941 3039">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 365 2939 941 3039">
+     <span class='ocr_line' id='line_1_5' title="bbox 365 2939 941 3039; baseline 0.005 -28"><span class='ocrx_word' id='word_1_5' title='bbox 365 2939 599 3039; x_wconf 74' lang='lat' dir='ltr'><strong>Dialogus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 641 2941 941 3014; x_wconf 81' lang='lat' dir='ltr'><strong>Huttenicus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1314 5108">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1314 5108">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1314 5108; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1314 5108; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
